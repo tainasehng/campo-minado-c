@@ -19,7 +19,7 @@ Implementação do jogo Campo Minado em linguagem C, com funcionalidades complet
 gcc campo.c -o campo
 ```
 
-2. Execute
+2. Execute:
 ```bash
 ./campo
 ```
